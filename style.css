@@ -1,0 +1,45 @@
+th,td{
+  border: 1px solid;
+  font-size: 25px;
+}
+td{
+  height:28px;
+}
+table{
+  margin: 75px 0 50px;
+  }
+
+
+.job{
+  padding: .5px .5px;
+}
+.date{
+  padding: .5px 25px;
+}
+.bill{
+  padding: .5px 3px;
+}
+.work{
+  padding: .5px 25px;
+}
+.design{
+  padding: .5px 78px;
+}
+.pcs{
+  padding: .5px 3px;
+}
+.rate{
+  padding: .5px;
+}
+.total{
+  padding: .5px 8px;
+}
+.gst{
+  padding: .5px 3px;
+}
+
+.footer{
+  width: 766px;
+  text-align: center;
+  font-size: 18px;
+}
